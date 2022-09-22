@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Python virtual environment
-env/
+.env/
